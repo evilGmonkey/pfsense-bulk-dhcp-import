@@ -1,0 +1,580 @@
+<staticmap>
+  <mac>44:4a:db:bf:5e:51</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.60</ipaddr>
+  <hostname>unknownphone1</hostname>
+  <descr>iPhone</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>34:b9:8d:8e:54:72</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.61</ipaddr>
+  <hostname>unknownphone2</hostname>
+  <descr>M2006C3MII-Redmi9</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>9c:2e:a1:0c:5c:73</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.62</ipaddr>
+  <hostname>unknownphone3</hostname>
+  <descr>M2006C3LG-Redmi9A</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>84:6f:ce:9b:4b:87</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.63</ipaddr>
+  <hostname>unknownphone4</hostname>
+  <descr>OPPO-A7</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>fe:6b:a2:fd:37:a0</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.64</ipaddr>
+  <hostname>unknownphone5</hostname>
+  <descr>OnePlus-Nord-CE-3-Lite-5G</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>3e:33:0e:d8:fe:5c</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.65</ipaddr>
+  <hostname>unknownphone6</hostname>
+  <descr>Vinod-Kumar-V-s-S20-FE</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>b2:b9:32:f6:89:df</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.66</ipaddr>
+  <hostname>unknownphone7</hostname>
+  <descr>Infinix-SMART-8</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>48:95:07:66:f1:d7</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.67</ipaddr>
+  <hostname>unknownphone8</hostname>
+  <descr>OPPO-K1</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>ce:08:9f:1e:4a:95</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.68</ipaddr>
+  <hostname>unknownphone9</hostname>
+  <descr>Redmi-12C</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>18:19:d6:33:3d:6b</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.69</ipaddr>
+  <hostname>unknownphone10</hostname>
+  <descr>Galaxy-A50</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>a6:be:0c:e3:d1:83</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.70</ipaddr>
+  <hostname>unknownphone11</hostname>
+  <descr>itel-A60s</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>de:04:5b:d3:e0:84</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.71</ipaddr>
+  <hostname>unknownphone12</hostname>
+  <descr>Galaxy-M30</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>80:35:c1:d1:53:c2</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.72</ipaddr>
+  <hostname>unknownphone13</hostname>
+  <descr>Redmi8-Redmi</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>e4:34:93:d8:63:eb</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.73</ipaddr>
+  <hostname>unknownphone14</hostname>
+  <descr>HUAWEI_Y7_Prime_2018-971e</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>ee:d9:12:11:6a:5f</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.74</ipaddr>
+  <hostname>unknownphone15</hostname>
+  <descr>Micha</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>e6:95:4b:e0:67:b6</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.75</ipaddr>
+  <hostname>unknownphone16</hostname>
+  <descr>Galaxy-A04s</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>ea:b8:39:54:f8:81</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.76</ipaddr>
+  <hostname>unknownphone17</hostname>
+  <descr>Galaxy-Tab-A9</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>e2:a7:69:68:db:37</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.77</ipaddr>
+  <hostname>unknownphone18</hostname>
+  <descr>TECNO-SPARK-7</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>54:25:ea:66:aa:3e</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.78</ipaddr>
+  <hostname>unknownphone19</hostname>
+  <descr>HUAWEI_P10_lite-88ac5100d</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>88:46:04:0f:c1:a2</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.79</ipaddr>
+  <hostname>unknownphone20</hostname>
+  <descr>M2006C3MII-Redmi9</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>da:a9:d3:55:96:51</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.80</ipaddr>
+  <hostname>unknownphone21</hostname>
+  <descr>TECNO-SPARK-7P</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>12:aa:3d:56:7a:7a</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.81</ipaddr>
+  <hostname>unknownphone22</hostname>
+  <descr>Galaxy-A52S</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>96:2a:a7:bd:6f:08</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.82</ipaddr>
+  <hostname>unknownphone23</hostname>
+  <descr>Galaxy-Tab-A9</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>fa:24:58:7a:d9:fa</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.83</ipaddr>
+  <hostname>unknownphone24</hostname>
+  <descr>Infinix-HOT-12i</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>ce:bc:9c:a3:0d:e5</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.84</ipaddr>
+  <hostname>unknownphone25</hostname>
+  <descr>Vinod-Kumar-V-s-S20-FE</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>de:56:db:99:6e:39</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.85</ipaddr>
+  <hostname>unknownphone26</hostname>
+  <descr>Luzethy</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>c2:a3:95:53:ea:ff</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.86</ipaddr>
+  <hostname>unknownphone27</hostname>
+  <descr>Galaxy-A31-de-Dercioamade</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>f4:b7:b3:61:cf:d6</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.87</ipaddr>
+  <hostname>unknownphone28</hostname>
+  <descr>vivo-Y66</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
+<staticmap>
+  <mac>3c:57:6c:13:0e:be</mac>
+  <cid></cid>
+  <ipaddr>192.168.234.88</ipaddr>
+  <hostname>unknownphone29</hostname>
+  <descr>android-cfc8015b52b6187</descr>
+  <filename></filename>
+  <rootpath></rootpath>
+  <defaultleasetime></defaultleasetime>
+  <maxleasetime></maxleasetime>
+  <gateway></gateway>
+  <domain></domain>
+  <domainsearchlist></domainsearchlist>
+  <ddnsdomain></ddnsdomain>
+  <ddnsdomainprimary></ddnsdomainprimary>
+  <ddnsdomainkeyname></ddnsdomainkeyname>
+  <ddnsdomainkey></ddnsdomainkey>
+  <tftp></tftp>
+  <ldap></ldap>
+</staticmap>
